@@ -269,3 +269,6 @@ Other good courses in machine learning are:
   
 
 After getting hands-on experience with machine learning, do get your hands dirty with machine learning competitions on Kaggle, Top Coder, Hackerearth etc. If anything unclear feel free to contact me on any social media platform. Just search Animesh Seemendra.
+
+
+Special Thanks to Revant Gupta and Animesh Seemendra for writing such a detailed curriculum.
